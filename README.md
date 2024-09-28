@@ -1,7 +1,7 @@
 ## Hello, I'm Mathis Picasse!👋
 
 🎓 4th-year engineering student at **Polytech Clermont**, specializing in **Mathematical Engineering and Data Science**.  
-💻 Fascinated by the power of Machine learning and Deep learning to solve complex problems.  
+💻 Fascinated by the power of **Machine learning** and **Deep learning** to solve complex problems.  
 🎯 Currently **seeking a 6-month internship in Machine Learning starting in March 2025.** 
 
 ## 🔍 Discover My Work in Machine Learning and Data Science
