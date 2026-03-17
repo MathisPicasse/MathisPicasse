@@ -38,13 +38,6 @@ Je fais le pont entre la **modélisation mathématique complexe** et la mise en 
 
 ---
 
-## 📈 Mes Statistiques GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO]&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO]&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
 ---
 
 ## 📫 Me contacter
