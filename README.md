@@ -1,4 +1,4 @@
-# Salut, moi c'est [Ton Prénom] 👋 
+# Salut, moi c'est Mathis 👋 
 
 ### 🚀 Ingénieur Data Scientist & AI Engineer | Étudiant en dernière année à Polytech Clermont
 
@@ -10,7 +10,7 @@ Je fais le pont entre la **modélisation mathématique complexe** et la mise en 
 
 | **Domaine** | **Technologies** |
 | :--- | :--- |
-| **AI Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![LLM](https://img.shields.io/badge/LLMs-LangChain%20%2F%20OpenAI-blue?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **AI Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![LLM](https://img.shields.io/badge/LLMs-LangChain%20%2F%20OpenAI-blue?style=flat-square)|
 | **Data Science** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
 | **Mathématiques** | ![Maths](https://img.shields.io/badge/Optimisation-Statistiques-green?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 | **Outils & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
