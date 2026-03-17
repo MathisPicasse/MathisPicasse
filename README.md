@@ -1,16 +1,54 @@
-## Hello, I'm Mathis Picasse!👋
+# Salut, moi c'est [Ton Prénom] 👋 
 
-🎓 4th-year engineering student at **Polytech Clermont**, specializing in **Mathematical Engineering and Data Science**.  
-💻 Fascinated by the power of **Machine learning** and **Deep learning** to solve complex problems.  
-🎯 Currently **seeking a 6-month internship in Machine Learning starting in March 2025.** 
+### 🚀 Ingénieur Data Scientist & AI Engineer | Étudiant en dernière année à Polytech Clermont
 
-## 🔍 Discover My Work in Machine Learning and Data Science
-On my GitHub, you'll find my school projects and various academic works that I am currently completing during my fourth year of engineering school, along with personal projects that showcase my skills and interests
+Je fais le pont entre la **modélisation mathématique complexe** et la mise en production de **systèmes d'IA robustes**. Actuellement en alternance chez **Michelin**, je me spécialise dans la transformation de données non structurées en informations exploitables.
 
-## 🌱 Projects
-- **[Time Series Forecasting:](#)**  Currently developing a model to predict financial time series trends using Darts and a Convolutional Neural Network.
+---
 
-## 📫 Contact
-- Email: mathispicasse@gmail.com
-- LinkedIn: [Mathis Picasse](www.linkedin.com/in/mathispicasse)
+## 🛠️ Stack Technique
 
+| **Domaine** | **Technologies** |
+| :--- | :--- |
+| **AI Engineering** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![LLM](https://img.shields.io/badge/LLMs-LangChain%20%2F%20OpenAI-blue?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Data Science** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Mathématiques** | ![Maths](https://img.shields.io/badge/Optimisation-Statistiques-green?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Outils & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+---
+
+## 🏗️ Ce que je fais en ce moment
+
+### 👔 Expérience Professionnelle @ Michelin (Alternance)
+* **Extraction d'informations (PDF) :** Développement de pipelines pour transformer des documents complexes en schémas de données validés.
+* **IA Industrielle :** Utilisation des **LLMs** et de **Pydantic** pour garantir la fiabilité et la structure des données extraites.
+* **Compétences clés :** Python avancé, Validation de données, Prompt Engineering.
+
+### 🎓 Projets Académiques @ Polytech Clermont
+* **Deep Learning :** Implémentation de modèles génératifs (**GANs**, **Modèles de Diffusion**) sous TensorFlow.
+* **Génie Mathématique :** Résolution de problèmes d'optimisation et modélisation statistique appliquée.
+
+---
+
+## 🌟 Projets Phares
+
+* **[Nom du Projet GANs]** : Génération d'images via GANs. Étude de la stabilité de l'entraînement et des fonctions de perte. *(TensorFlow, Python)*
+* **[Nom du Projet Diffusion]** : Implémentation d'un modèle de diffusion pour la restauration d'images. *(TensorFlow)*
+* **[Nom du Projet Extraction]** : POC d'extraction de données structurées à partir de documents PDF non normalisés. *(Pydantic, OpenAI API)*
+
+---
+
+## 📈 Mes Statistiques GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO]&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO]&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 📫 Me contacter
+* **LinkedIn :** [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
+* **Localisation :** Clermont-Ferrand, France 🇫🇷
+
+> "In data we trust, but validation is a must." (Merci Pydantic !)
