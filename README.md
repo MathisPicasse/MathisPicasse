@@ -22,22 +22,6 @@ Je fais le pont entre la **modélisation mathématique complexe** et la mise en 
 ### 👔 Expérience Professionnelle @ Michelin (Alternance)
 * **Extraction d'informations (PDF) :** Développement de pipelines pour transformer des documents complexes en schémas de données validés.
 * **IA Industrielle :** Utilisation des **LLMs** et de **Pydantic** pour garantir la fiabilité et la structure des données extraites.
-* **Compétences clés :** Python avancé, Validation de données, Prompt Engineering.
-
-### 🎓 Projets Académiques @ Polytech Clermont
-* **Deep Learning :** Implémentation de modèles génératifs (**GANs**, **Modèles de Diffusion**) sous TensorFlow.
-* **Génie Mathématique :** Résolution de problèmes d'optimisation et modélisation statistique appliquée.
-
----
-
-## 🌟 Projets Phares
-
-* **[Nom du Projet GANs]** : Génération d'images via GANs. Étude de la stabilité de l'entraînement et des fonctions de perte. *(TensorFlow, Python)*
-* **[Nom du Projet Diffusion]** : Implémentation d'un modèle de diffusion pour la restauration d'images. *(TensorFlow)*
-* **[Nom du Projet Extraction]** : POC d'extraction de données structurées à partir de documents PDF non normalisés. *(Pydantic, OpenAI API)*
-
----
-
 ---
 
 ## 📫 Me contacter
